@@ -20,4 +20,4 @@ Please fork this repository and then issue pull request for review
 
 ### Copyright
 
-2020 ElForas.
+2020 ElForas. All rights reserved.
